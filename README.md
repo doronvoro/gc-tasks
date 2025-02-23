@@ -1,4 +1,5 @@
 npm create vite@latest product-manager --template react
+
 cd product-manager
 npm install
 npm run dev
