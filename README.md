@@ -1,3 +1,45 @@
+npm create vite@latest product-manager --template react
+cd product-manager
+npm install
+npm run dev
+
+rafc
+
+npm install axios react-router-dom
+
+
+task-manager/
+│── src/
+│   ├── components/
+│   │   ├── TaskForm.jsx
+│   │   ├── TaskList.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   ├── context/
+│   │   ├── TaskContext.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│── public/
+│── index.html
+│── package.json
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
